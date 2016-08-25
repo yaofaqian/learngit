@@ -1,0 +1,114 @@
+[ 2016-08-25T14:02:47+08:00 ] 127.0.0.1 /App/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-08-25T14:03:12+08:00 ] 127.0.0.1 /App/index.php/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005001s ]
+ERR: 无法加载模块:Index
+
+[ 2016-08-25T14:03:48+08:00 ] 127.0.0.1 /App/index.php/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-08-25T14:04:29+08:00 ] 127.0.0.1 /App/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-08-25T14:05:19+08:00 ] 127.0.0.1 /App/index.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-08-25T14:35:09+08:00 ] 127.0.0.1 /App/index.php/stylesheets/premium.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Stylesheets
+
+[ 2016-08-25T14:35:09+08:00 ] 127.0.0.1 /App/index.php/stylesheets/theme.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Stylesheets
+
+[ 2016-08-25T14:35:09+08:00 ] 127.0.0.1 /App/index.php/lib/jQuery-Knob/js/jquery.knob.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-08-25T14:35:09+08:00 ] 127.0.0.1 /App/index.php/lib/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-08-25T14:35:09+08:00 ] 127.0.0.1 /App/index.php/lib/font-awesome/css/font-awesome.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-08-25T14:35:09+08:00 ] 127.0.0.1 /App/index.php/lib/bootstrap/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-08-25T14:35:09+08:00 ] 127.0.0.1 /App/index.php/lib/bootstrap/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-08-25T14:35:09+08:00 ] 127.0.0.1 /App/index.php/lib/jQuery-Knob/js/jquery.knob.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-08-25T14:35:09+08:00 ] 127.0.0.1 /App/index.php/stylesheets/premium.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Stylesheets
+
+[ 2016-08-25T14:35:09+08:00 ] 127.0.0.1 /App/index.php/stylesheets/theme.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Stylesheets
+
+[ 2016-08-25T14:35:09+08:00 ] 127.0.0.1 /App/index.php/lib/bootstrap/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-08-25T14:36:54+08:00 ] 127.0.0.1 /App/index.php/lib/bootstrap/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-08-25T14:36:55+08:00 ] 127.0.0.1 /App/index.php/lib/bootstrap/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Lib
+
+[ 2016-08-25T14:37:29+08:00 ] 127.0.0.1 /App/index.php/faq.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Faq
+

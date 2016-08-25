@@ -1,0 +1,168 @@
+.Slide{
+    z-index:-1;
+    width:100%;
+    height:535px;
+    float:left;
+    background-color:#1879ef;
+}
+.download-down{
+    width:150px;
+    height:50px;
+    float:left;
+    position:relative;
+    bottom:150px;
+    left:50px;
+    background-color: white;
+    border:2px solid white;
+}
+.download-down span{
+    width:90px;
+    height:50px;
+    float:left;
+    font-size:18px;
+    margin-left: 5px;
+    line-height: 50px;
+    color:#1879ef;
+    display:block;
+}
+.banner-down{
+    width: 50px;
+    height:50px;
+    line-height: 50px;
+    display:block;
+    float:left;
+}
+.banner-down{
+    background: url(../image/icon.png) 14px -57px no-repeat;
+}
+
+
+.download-btn{
+    width:150px;
+    height:50px;
+    float:left;
+    position:relative;
+    bottom:150px;
+    margin-left: 70px;
+    border:2px solid white;
+}
+.download-btn span{
+    width:90px;
+    height:50px;
+    float:left;
+    font-size:18px;
+    margin-left: 5px;
+    line-height: 50px;
+    color:white;
+    display:block;
+}
+.banner-btn{
+    width: 50px;
+    height:50px;
+    line-height: 50px;
+    display:block;
+    float:left;
+}
+.banner-btn{
+    background: url(../image/icon.png) 13px -163px no-repeat;
+}
+
+.download-btn-link{
+    width:150px;
+    height:50px;
+    float:left;
+    position:relative;
+    bottom:150px;
+    margin-left: 20px;
+    border:2px solid white;
+}
+.banner-btn-link{
+    width: 50px;
+    height:50px;
+    line-height: 50px;
+    display:block;
+    float:left;
+}
+.banner-btn-link{
+    background: url(../image/icon1.png) -255px -35px no-repeat;
+}
+.download-btn-link span{
+    width:90px;
+    height:50px;
+    float:left;
+    font-size:18px;
+    margin-left: 5px;
+    line-height: 50px;
+    color:white;
+    display:block;
+}
+.downlod-iphone{
+    margin-top: 20px;
+    float:left;
+    width:250px;
+    height:250px;
+    margin-left: 200px;
+    border:1px solid #8c8a8c;
+}
+.downlod-iphone a{
+    text-decoration: none;
+}
+.downlod-androud{
+    margin-top: 20px;
+    float:left;
+    width:250px;
+    height:250px;
+    margin-left: 10px;
+    border:1px solid #8c8a8c;
+}
+.downlod-code{
+    margin-top: 20px;
+    float:left;
+    width:250px;
+    height:250px;
+    margin-left: 10px;
+    border:1px solid #8c8a8c;
+}
+
+.download-iphone-text{
+    font-size:16px;
+    margin-left:85px;
+    margin-top:5px;
+    color:#8c8a8c;
+}
+
+.download-androud-text{
+    font-size:16px;
+    margin-left:80px;
+    margin-top:5px;
+    color:#8c8a8c;
+}
+.downlod-code img{
+    width:150px;
+    height:150px;
+    margin-top:50px;
+    margin-left:35px;
+}
+.borer{
+    box-shadow:0 0 15px #8c8a8c;
+    background-color: #1879ef;
+}
+
+.icon{
+    width:43px;
+    height:50px;
+    display:block;
+    margin:80px auto 18px;
+}
+.icon{
+    background:url(../image/icon.png) 0 0 no-repeat;
+}
+.icom{
+    width:43px;
+    height:50px;
+    display:block;
+    margin:80px auto 18px;
+}
+.icom{
+    background:url(../image/icon.png) -77px 0 no-repeat;
+}
