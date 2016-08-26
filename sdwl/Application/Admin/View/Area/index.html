@@ -1,0 +1,66 @@
+<include file="Index:index" />
+<div class="content">
+    <div class="main-content">
+        <div class="row">
+
+
+            <table class="table table-bordered table-striped">
+                <tbody>
+                <form action="" method="post">
+
+                    市区:<input  class="form-control span6" type="text" value="">
+
+                </form>
+                </tbody>
+            </table>
+
+
+            <div class="col-sm-12 col-md-12">
+
+
+
+                <div class="panel panel-default">
+                    <div class="panel-heading no-collapse">区域列表</div>
+                    <table class="table table-bordered table-striped">
+                        <thead>
+                        <tr>
+                            <th>市区</th>
+                            <th>区(县)</th>
+                            <th>地区</th>
+                            <th>市区操作</th>
+                            <th>地区</th>
+                            <th>地区</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <volist name="list" id="vo">
+                            <tr>
+                                <td>{$vo.city}</td>
+                                <td>{$vo.id}</td>
+                                <td></td>
+                                <td>
+                                    <a href=""><i class="fa fa-plus"></i></a>
+                                    <a href=""><i class="fa fa-pencil"></i></a>
+                                    <a href=""><i class="fa fa-trash-o"></i></a>
+                                </td>
+                                <td>
+                                    <a href=""><i class="fa fa-plus"></i></a>
+                                    <a href=""><i class="fa fa-pencil"></i></a>
+                                    <a href=""><i class="fa fa-trash-o"></i></a>
+                                </td>
+                                <td>
+                                    <a href=""><i class="fa fa-pencil"></i></a>
+                                    <a href=""><i class="fa fa-trash-o"></i></a>
+                                </td>
+                            </tr>
+                        </volist>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <ul class="pagination">
+            {$show}
+        </ul>
+    </div>
+</div>
